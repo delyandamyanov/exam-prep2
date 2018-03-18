@@ -1,3 +1,4 @@
 # exam-prep2
 
-SoftUni exam preparation problems.
+Information about exam preparation from SoftUni
+
